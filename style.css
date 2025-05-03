@@ -71,6 +71,7 @@ body {
 }
 
 header {
+  color: #010101;
   height: 200px;
   position: fixed;
   width: 100%;
