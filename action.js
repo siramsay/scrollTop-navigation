@@ -11,7 +11,7 @@ function myFunction() {
   console.log('Body Scroll Up: ' + intElemScrollTop);
 
   if  (scrollElement.scrollTop > 128) {
-      header.style.backgroundColor = "rgba(128,255,255,0.7)";
+      header.style.backgroundColor = "rgba(128,255,255,0.95)";
       header.classList.add('small');
     } else {
       header.style.backgroundColor = "transparent";
